@@ -1,0 +1,29 @@
+Connected
+-3572.1617867103637 -34.835735657052396 -1.4908466819757733
+-498.40286457886 -39.93224986882842 -1781766.736536206 499.99999999999994
+in looop:  0
+split values:  [-3572.167677403019, -34.83742626311947, 61.173681526204085, 0.0021426841999041147, -0.011539483981888948, -1.4908503358567236]
+current x position -3572.167677403019, y_position -34.83742626311947, lateral distance to line 0.0060068955947645015
+f
+
+in looop:  1
+split values:  [-3572.167677403019, -34.83742626311947, 61.173681526204085, 0.0021426841999041147, -0.011539483981888948, -1.4908503358567236]
+current x position -3572.167677403019, y_position -34.83742626311947, lateral distance to line 0.0060068955947645015
+f
+
+in looop:  2
+split values:  [-3572.167677403019, -34.83742626311947, 61.173681526204085, 0.0021426841999041147, -0.011539483981888948, -1.4908503358567236]
+current x position -3572.167677403019, y_position -34.83742626311947, lateral distance to line 0.0060068955947645015
+f
+
+time ended
+Done
+time ended
+
+
+Traceback (most recent call last):
+  File "E:\EngSci\Y4T2\ROB498\prototype\python_work\robot_run.py", line 103, in <module>
+    bluetooth.write(bytes("s", "utf-8"))
+  File "E:\EngSci\Y4T2\ROB498\prototype\python_work\venv2\lib\site-packages\serial\serialwin32.py", line 306, in write
+    raise PortNotOpenError()
+serial.serialutil.PortNotOpenError: Attempting to use a port that is not open

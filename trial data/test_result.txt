@@ -1,0 +1,478 @@
+(venv2) E:\EngSci\Y4T2\ROB498\prototype\python_work>python test_thread_2.py
+start point:  -2737.53578047248 -2632.382778126775 -1.5784827189921464
+end point:  -2741.3789387281454 -3132.3680080432414 -1.5784827189921464
+message from main : f
+current x position -2737.52123491308, y_position -2632.368463200376, orientation -1.5785825106079203, lateral distance to line 0.7857029080436922
+message from main : r
+current x position -2737.521462514694, y_position -2632.3836971882233, orientation -1.5785276501946153, lateral distance to line -1.5143812382332598
+message from main : l
+current x position -2737.5208106114583, y_position -2632.386470626486, orientation -1.5785214604433302, lateral distance to line -1.3366479194684813
+message from main : l
+current x position -2737.520150980957, y_position -2632.3892769394, orientation -1.5785151973192313, lateral distance to line -1.1844264667405537
+message from main : l
+current x position -2737.519541272654, y_position -2632.391870864763, orientation -1.5785094081983435, lateral distance to line -1.0680513051958145
+message from main : l
+current x position -2737.518504260165, y_position -2632.396282700685, orientation -1.5784995618593243, lateral distance to line -0.9150090132884356
+message from main : l
+current x position -2737.5225745720004, y_position -2632.3771468475093, orientation -1.5785674896284665, lateral distance to line 1.1600359203207555
+message from main : r
+current x position -2737.522763453549, y_position -2632.3760316878706, orientation -1.5785742970203018, lateral distance to line 1.0849468119967898
+message from main : r
+current x position -2737.522971962574, y_position -2632.3748006473, orientation -1.5785818114534331, lateral distance to line 1.0060751080518495
+message from main : r
+current x position -2737.5231667080593, y_position -2632.3736508668876, orientation -1.5785888295384172, lateral distance to line 0.9367231341798921
+message from main : r
+current x position -2737.5258960995757, y_position -2632.366196154903, orientation -1.5785631932415802, lateral distance to line 0.5298542734348386
+message from main : r
+current x position -2737.5265118442826, y_position -2632.364106486858, orientation -1.5785632481319065, lateral distance to line 0.4530781949366694
+message from main : r
+current x position -2737.527234908328, y_position -2632.3616526065175, orientation -1.5785633115994178, lateral distance to line 0.3767051118836145
+message from main : r
+current x position -2737.5278983619846, y_position -2632.3594010274296, orientation -1.5785633688940566, lateral distance to line 0.3175152493479803
+message from main : r
+current x position -2737.5288203107793, y_position -2632.3562721869953, orientation -1.5785634470174144, lateral distance to line 0.24910496897301065
+message from main : r
+current x position -2737.520615985823, y_position -2632.3843742687036, orientation -1.5784907303797828, lateral distance to line -1.4736135953483962
+message from main : l
+current x position -2737.519436001146, y_position -2632.3884375196562, orientation -1.578474298587568, lateral distance to line -1.2451460166281811
+message from main : l
+current x position -2737.518609807811, y_position -2632.3912824980034, orientation -1.578462793638348, lateral distance to line -1.1186142859435173
+message from main : l
+current x position -2737.5173831866164, y_position -2632.3955063407666, orientation -1.5784457128540423, lateral distance to line -0.9732456187039729
+message from main : l
+current x position -2737.5298976355552, y_position -2632.377495939822, orientation -1.5784633524290235, lateral distance to line 0.8314574256527145
+message from main : r
+current x position -2737.531468543408, y_position -2632.3767774241956, orientation -1.5784559360091026, lateral distance to line 0.6153947048867634
+message from main : r
+current x position -2737.5327927241588, y_position -2632.3761717587777, orientation -1.5784496844225429, lateral distance to line 0.4170393710462348
+message from main : r
+current x position -2737.534125022758, y_position -2632.3755623803463, orientation -1.5784433945190977, lateral distance to line 0.21783280125931329
+message from main : r
+current x position -2737.535458431491, y_position -2632.3749524941527, orientation -1.5784370993829195, lateral distance to line 0.03344247209031234
+message from main : f
+current x position -2737.545721367239, y_position -2632.368814268108, orientation -1.5785130507637692, lateral distance to line -0.6263554951204235
+message from main : l
+current x position -2737.55144036004, y_position -2632.3657224322847, orientation -1.578527031872277, lateral distance to line -0.7504455181510905
+message from main : l
+current x position -2737.555861086861, y_position -2632.3633324727184, orientation -1.5785378295925003, lateral distance to line -0.8091474357674633
+message from main : l
+current x position -2737.539859885616, y_position -2632.359781267219, orientation -1.5785556441225495, lateral distance to line -0.18325010423482757
+message from main : l
+current x position -2737.5391471057974, y_position -2632.3575375353603, orientation -1.578566165553539, lateral distance to line -0.1402854586990938
+message from main : l
+current x position -2737.5385137367703, y_position -2632.355543777643, orientation -1.5785755142247582, lateral distance to line -0.10771237683345092
+message from main : l
+current x position -2737.5380082548886, y_position -2632.353952590894, orientation -1.578582974869566, lateral distance to line -0.08481809754915437
+message from main : l
+current x position -2737.512949306209, y_position -2632.3611246339065, orientation -1.5785570629588759, lateral distance to line 0.8041792863823004
+message from main : r
+current x position -2737.509167554528, y_position -2632.361144267022, orientation -1.5785580364024048, lateral distance to line 0.8805475365134431
+message from main : r
+current x position -2737.50462336951, y_position -2632.3611678583416, orientation -1.578559204811461, lateral distance to line 0.9566986610517285
+message from main : r
+current x position -2737.499562815423, y_position -2632.3611941304116, orientation -1.578560504334351, lateral distance to line 1.0256719929167148
+message from main : r
+current x position -2737.4916504952744, y_position -2632.3719204612953, orientation -1.5785939380905516, lateral distance to line 1.3218633725095017
+message from main : r
+current x position -2737.4822236373575, y_position -2632.375874535633, orientation -1.5786078395337642, lateral distance to line 1.4349146873175669
+message from main : r
+current x position -2737.474977689727, y_position -2632.3789138320594, orientation -1.5786185253704101, lateral distance to line 1.499640727287486
+message from main : r
+current x position -2737.4703450305274, y_position -2632.380856990535, orientation -1.578625357533654, lateral distance to line 1.5337591044785182
+message from main : r
+current x position -2737.497121148368, y_position -2632.377671551083, orientation -1.578530174566892, lateral distance to line 1.4317785494111954
+message from main : r
+current x position -2737.497811910637, y_position -2632.378532758516, orientation -1.5785211885642465, lateral distance to line 1.4517597120079921
+message from main : r
+current x position -2737.4985661940354, y_position -2632.379473160877, orientation -1.5785113762253142, lateral distance to line 1.4745332347524451
+message from main : r
+current x position -2737.499604474016, y_position -2632.380767635801, orientation -1.578497869423011, lateral distance to line 1.5075917730564794
+message from main : r
+current x position -2737.500236276386, y_position -2632.3815553350164, orientation -1.5784896504154446, lateral distance to line 1.5287214874073194
+message from main : r
+current x position -2737.500822178379, y_position -2632.3822858079643, orientation -1.578482028517088, lateral distance to line 1.5490278324871916
+message from main : r
+current x position -2737.5015662350197, y_position -2632.3832134601216, orientation -1.578472349210921, lateral distance to line -1.5657596572328174
+message from main : l
+current x position -2737.5026200253915, y_position -2632.3908071047513, orientation -1.5785160182103253, lateral distance to line -1.3409293085612808
+message from main : l
+current x position -2737.5032757448816, y_position -2632.3923524582096, orientation -1.5785141357153212, lateral distance to line -1.2920315844215755
+message from main : l
+current x position -2737.504002692527, y_position -2632.394065677162, orientation -1.5785120481392332, lateral distance to line -1.2371805969861394
+message from main : l
+current x position -2737.504735796928, y_position -2632.3957934059217, orientation -1.5785099422510074, lateral distance to line -1.1814979451927285
+message from main : l
+current x position -2737.5055407301434, y_position -2632.3976904157666, orientation -1.5785076292992903, lateral distance to line -1.1203418136641443
+message from main : l
+current x position -2737.5060073421346, y_position -2632.398790094006, orientation -1.5785062881533716, lateral distance to line -1.0850549158758507
+message from main : l
+current x position -2737.5068717405984, y_position -2632.400827247355, orientation -1.578503803002186, lateral distance to line -1.0203521050802782
+message from main : l
+current x position -2737.540804014176, y_position -2632.382152810185, orientation -1.5784998462352078, lateral distance to line -1.4546424780225518
+message from main : l
+current x position -2737.5455342362006, y_position -2632.3812920386226, orientation -1.5784976442549234, lateral distance to line -1.4272850336875589
+message from main : l
+current x position -2737.55031040239, y_position -2632.3804229064735, orientation -1.5784954212236875, lateral distance to line -1.4177860029222789
+message from main : l
+current x position -2737.5552135906823, y_position -2632.379530659762, orientation -1.5784931394228268, lateral distance to line -1.412902789839711
+message from main : l
+current x position -2737.5599309753666, y_position -2632.3786722242457, orientation -1.5784909444260045, lateral distance to line -1.4100798029855974
+message from main : l
+current x position -2737.5644993793403, y_position -2632.377840899161, orientation -1.5784888190643054, lateral distance to line -1.4082313755079636
+message from main : l
+current x position -2737.5550733149507, y_position -2632.359300829198, orientation -1.5784708773950171, lateral distance to line -0.6955590331879922
+message from main : l
+bluetooth Connected
+current x position -2737.557832253727, y_position -2632.3558245310073, orientation -1.5784663147677918, lateral distance to line -0.6933901064653925
+signal :f
+message from main : l
+current x position -2737.560378276684, y_position -2632.3526165094763, orientation -1.5784621042703468, lateral distance to line -0.6918273720482735
+message from main : l
+current x position -2737.563332006726, y_position -2632.348894771796, orientation -1.5784572195467463, lateral distance to line -0.6903816339752784
+message from main : l
+current x position -2737.565588036809, y_position -2632.3460521449992, orientation -1.5784534886581427, lateral distance to line -0.6894730257003912
+message from main : l
+current x position -2737.5686600534177, y_position -2632.34218136473, orientation -1.5784484083609873, lateral distance to line -0.6884387528320728
+message from main : l
+current x position -2737.5722073149263, y_position -2632.3377117698014, orientation -1.5784425421662296, lateral distance to line -0.6874639148254067
+message from main : l
+current x position -2737.5297666973497, y_position -2632.352307884718, orientation -1.5784483834028433, lateral distance to line 0.1871747340108299
+message from main : r
+current x position -2737.526725526138, y_position -2632.3514556565538, orientation -1.5784456581429043, lateral distance to line 0.2737294581214305
+message from main : r
+current x position -2737.523403683706, y_position -2632.3505247758235, orientation -1.5784426807644296, lateral distance to line 0.35872161067594954
+message from main : r
+current x position -2737.520478722612, y_position -2632.349705113249, orientation -1.5784400585908165, lateral distance to line 0.4256502918520347
+message from main : r
+current x position -2737.5173988146944, y_position -2632.3488420298877, orientation -1.5784372969826577, lateral distance to line 0.4887273689613514
+message from main : r
+current x position -2737.5139652927537, y_position -2632.347879853181, orientation -1.5784342176675026, lateral distance to line 0.550990370417775
+message from main : r
+current x position -2737.51129540494, y_position -2632.347131669855, orientation -1.5784318227440668, lateral distance to line 0.5941841929630742
+message from main : r
+current x position -2737.4954295222883, y_position -2632.356475218682, orientation -1.5785129827546085, lateral distance to line 0.9854328299751014
+message from main : r
+current x position -2737.4902578484334, y_position -2632.356939289234, orientation -1.5785215781262165, lateral distance to line 1.0468514753222085
+message from main : r
+current x position -2737.485478635181, y_position -2632.357368143062, orientation -1.578529520596776, lateral distance to line 1.0953506506063884
+message from main : r
+current x position -2737.4802774921113, y_position -2632.357834857979, orientation -1.5785381635781606, lateral distance to line 1.14075164206758
+message from main : r
+current x position -2737.4739689999574, y_position -2632.35840093881, orientation -1.5785486457347175, lateral distance to line 1.1874580420876564
+message from main : r
+current x position -2737.4692702203265, y_position -2632.358822575077, orientation -1.5785564525190388, lateral distance to line 1.2173964909536747
+message from main : r
+current x position -2737.464728147579, y_position -2632.359230149542, orientation -1.5785639983889121, lateral distance to line 1.243084704461025
+message from main : r
+current x position -2737.4949648925453, y_position -2632.35665911297, orientation -1.578478284958888, lateral distance to line 0.9938481473448347
+message from main : r
+current x position -2737.5391248892274, y_position -2632.389509162873, orientation -1.5785917209814404, lateral distance to line 0.4534501322909904
+message from main : r
+current x position -2737.5203038838245, y_position -2632.365927334741, orientation -1.5784610949746674, lateral distance to line 0.7352283867903635
+message from main : r
+current x position -2737.5088843820768, y_position -2632.3633673047248, orientation -1.5786470519331925, lateral distance to line 0.9379702963669152
+message from main : r
+current x position -2737.5180406588997, y_position -2632.3537395666317, orientation -1.5785153383982484, lateral distance to line 0.5407132299036458
+message from main : r
+current x position -2737.518337582041, y_position -2632.392776458679, orientation -1.5786118896831773, lateral distance to line -1.0579993434711623
+message from main : l
+current x position -2737.52347641798, y_position -2632.356381359292, orientation -1.5784649418992494, lateral distance to line 0.42849155811528555
+message from main : r
+current x position -2737.500169705126, y_position -2632.3228895390207, orientation -1.5785697042086133, lateral distance to line 0.5287655563395323
+message from main : r
+current x position -2737.538404963154, y_position -2632.3895426338695, orientation -1.578567107140713, lateral distance to line 0.3624148053979952
+message from main : r
+current x position -2737.5004980944545, y_position -2632.34990782324, orientation -1.5785430580616777, lateral distance to line 0.8130892216900264
+message from main : r
+current x position -2737.5027550263944, y_position -2632.3586593838836, orientation -1.5785738653035737, lateral distance to line 0.9323313711115135
+message from main : r
+current x position -2737.517388971653, y_position -2632.3657349561854, orientation -1.578559296764658, lateral distance to line 0.8157445792750814
+message from main : r
+current x position -2737.5318554543737, y_position -2632.369902888366, orientation -1.5784552677622528, lateral distance to line 0.2882141019024334
+message from main : r
+current x position -2737.5382095181526, y_position -2632.356320625764, orientation -1.5784426972411971, lateral distance to line -0.09923907544806143
+message from main : l
+current x position -2737.5333738283975, y_position -2632.367148436294, orientation -1.5785992335329622, lateral distance to line 0.1450927064101294
+message from main : r
+current x position -2737.520305623985, y_position -2632.3836308035693, orientation -1.578463288167036, lateral distance to line -1.5234375645429152
+message from main : l
+current x position -2737.5246532345095, y_position -2632.3450463738227, orientation -1.5785740079262724, lateral distance to line 0.27908847229523065
+message from main : r
+current x position -2737.524846586157, y_position -2632.381461870533, orientation -1.5785822570357966, lateral distance to line 1.4433032638227956
+message from main : r
+current x position -2737.542973491591, y_position -2632.3751563808282, orientation -1.5785965075587174, lateral distance to line -0.7641534715391218
+message from main : l
+current x position -2737.52264926703, y_position -2632.3419351934417, orientation -1.5786120524836136, lateral distance to line 0.30338111790429473
+message from main : r
+current x position -2737.5141405691566, y_position -2632.3469454138167, orientation -1.5783896717479908, lateral distance to line 0.5356066184028608
+message from main : r
+current x position -2737.524179094425, y_position -2632.386623060436, orientation -1.5785866592653977, lateral distance to line -1.2584547677661262
+message from main : l
+current x position -2737.5434615363265, y_position -2632.3314662224147, orientation -1.578591867844691, lateral distance to line -0.15627667169449255
+message from main : l
+current x position -2737.4887879219655, y_position -2632.373698507394, orientation -1.5785610404837638, lateral distance to line 1.372247793139452
+message from main : r
+current x position -2737.5693671808212, y_position -2632.334290013286, orientation -1.5785358368646825, lateral distance to line -0.61348216082117
+message from main : l
+current x position -2737.5286092994274, y_position -2632.361635296392, orientation -1.578523065957831, lateral distance to line 0.3193146881328994
+message from main : r
+current x position -2737.5000184824917, y_position -2632.369121017093, orientation -1.5785471892645884, lateral distance to line 1.1983133365079504
+message from main : r
+current x position -2737.50180477384, y_position -2632.34432631076, orientation -1.578531726610694, lateral distance to line 0.71598893399307
+message from main : r
+current x position -2737.525712218062, y_position -2632.32363355272, orientation -1.578495107867106, lateral distance to line 0.16092850513280196
+message from main : r
+current x position -2737.541130744112, y_position -2632.3861745579734, orientation -1.5785850609877705, lateral distance to line 0.9974839532353182
+message from main : r
+current x position -2737.541574429816, y_position -2632.3770889099296, orientation -1.5785415471591568, lateral distance to line -0.8022055168006541
+message from main : l
+current x position -2737.492962677861, y_position -2632.320215508239, orientation -1.5785330363631267, lateral distance to line 0.5924921968873336
+message from main : r
+current x position -2737.557329944215, y_position -2632.3655207739384, orientation -1.5785062129855538, lateral distance to line -0.9032390114117912
+message from main : l
+current x position -2737.536184768791, y_position -2632.3478339198973, orientation -1.5785834511205985, lateral distance to line -0.019255642408574136
+message from main : f
+current x position -2737.515293365451, y_position -2632.325623296361, orientation -1.5785482549379537, lateral distance to line 0.3364956938120414
+message from main : r
+current x position -2737.5384374488012, y_position -2632.3696499871367, orientation -1.5786132246221773, lateral distance to line -0.20737693052255102
+message from main : l
+current x position -2737.5044315332425, y_position -2632.3455338362237, orientation -1.578480986535646, lateral distance to line 0.6919759138056203
+message from main : r
+current x position -2737.524000952377, y_position -2632.3268716756443, orientation -1.578606746504734, lateral distance to line 0.19997666976682135
+message from main : r
+current x position -2737.5653716763827, y_position -2632.383424345762, orientation -1.5784596314633212, lateral distance to line 1.5412751931203028
+message from main : r
+current x position -2737.5379613614837, y_position -2632.373082775846, orientation -1.5785460668923585, lateral distance to line -0.22894537091857625
+message from main : l
+current x position -2737.5326595673773, y_position -2632.3575658370555, orientation -1.578558391958934, lateral distance to line 0.11547218739215126
+message from main : r
+current x position -2737.506661836112, y_position -2632.340487833819, orientation -1.578541386601249, lateral distance to line 0.5953080701179967
+message from main : r
+current x position -2737.5026374395916, y_position -2632.3728142221084, orientation -1.5785239651928782, lateral distance to line 1.2710720851255886
+message from main : r
+current x position -2737.542397338353, y_position -2632.3669876882404, orientation -1.5785274197646233, lateral distance to line -0.4045002374073019
+vicon break!!!!!
+message from main : l
+vicon time: 5.0792412757873535
+current x position -2737.5205103998487, y_position -2632.3451621223585, orientation -1.5785290276600432, lateral distance to line 0.37793545336170253
+message from main : r
+current x position -2737.5244182448478, y_position -2632.3190811745817, orientation -1.5785730443625718, lateral distance to line 0.1688364167813265
+message from main : r
+current x position -2737.556761695912, y_position -2632.3514265886984, orientation -1.5784553628528881, lateral distance to line -0.5974578465776634
+message from main : l
+current x position -2737.52179024041, y_position -2632.3834176145638, orientation -1.5785242490820441, lateral distance to line -1.532804922642597
+message from main : l
+current x position -2737.521804260505, y_position -2632.314629292896, orientation -1.5784758095616978, lateral distance to line 0.19459248509422847
+message from main : r
+current x position -2737.529481097614, y_position -2632.2872873527044, orientation -1.5783795357638748, lateral distance to line 0.05818657588774884
+message from main : r
+current x position -2737.776359229676, y_position -2631.7203072331836, orientation -1.5779766480507305, lateral distance to line -0.3560310369487354
+message from main : l
+current x position -2737.650618616738, y_position -2631.124359827067, orientation -1.5781343562840253, lateral distance to line -0.0986902742232676
+message from main : l
+current x position -2737.377173856096, y_position -2628.658863514651, orientation -1.5775897101946703, lateral distance to line 0.034879249529135084
+message from main : f
+current x position -2736.781715479357, y_position -2624.990204011689, orientation -1.5845852926018795, lateral distance to line 0.09396506702219033
+message from main : r
+current x position -2736.53551051371, y_position -2622.6831221987854, orientation -1.5850226879661702, lateral distance to line 0.09507463273171647
+message from main : r
+current x position -2736.569517673369, y_position -2619.78481277477, orientation -1.5836071012033854, lateral distance to line 0.06886364035826596
+message from main : r
+current x position -2737.0279187584683, y_position -2616.3840068067357, orientation -1.5803600412782413, lateral distance to line 0.024046746648164377
+message from main : f
+current x position -2737.035317869323, y_position -2610.2786022881714, orientation -1.5799562959444695, lateral distance to line 0.01495082882263897
+message from main : f
+current x position -2736.565342122994, y_position -2603.976298998936, orientation -1.5816650876207352, lateral distance to line 0.026462897564003888
+message from main : f
+current x position -2736.6839958520195, y_position -2599.167147884554, orientation -1.5812740799633507, lateral distance to line 0.01795207894423995
+message from main : f
+current x position -2736.566315080914, y_position -2595.5084698769138, orientation -1.578910475297495, lateral distance to line 0.01859863275872241
+message from main : f
+current x position -2736.492939585213, y_position -2589.3023056383045, orientation -1.570011836489239, lateral distance to line 0.01651569305294936
+message from main : f
+current x position -2736.862136070237, y_position -2573.4956324463956, orientation -1.5771352370221599, lateral distance to line 0.0037526920287883495
+message from main : f
+current x position -2736.770602591028, y_position -2567.990156883923, orientation -1.579997136676201, lateral distance to line 0.004196054174360235
+message from main : f
+current x position -2736.1817142844066, y_position -2541.9470634414743, orientation -1.5776296896484867, lateral distance to line 0.007285182040294479
+message from main : f
+current x position -2736.029474134421, y_position -2539.057916383027, orientation -1.5768816930558667, lateral distance to line 0.00845266791469748
+message from main : f
+current x position -2735.5883156076047, y_position -2528.748459797219, orientation -1.5819411016442089, lateral distance to line 0.011103094818943135
+message from main : f
+current x position -2735.5066915240923, y_position -2510.285710633688, orientation -1.5795392488829432, lateral distance to line 0.00893073238476119
+message from main : f
+current x position -2734.0448218242996, y_position -2486.4800625717994, orientation -1.5853234686789377, lateral distance to line 0.01623566224870396
+message from main : f
+current x position -2733.537031390794, y_position -2476.744503010148, orientation -1.5866672567297595, lateral distance to line 0.0180005383297114
+message from main : f
+current x position -2733.5911246670425, y_position -2469.2014868375268, orientation -1.583296672321823, lateral distance to line 0.016482357066127686
+message from main : f
+current x position -2733.5912930516597, y_position -2468.474766352128, orientation -1.5830810430973081, lateral distance to line 0.016374214586550286
+message from main : f
+current x position -2733.7995518803295, y_position -2451.3016004113347, orientation -1.6133913974673888, lateral distance to line 0.012943573785707511
+message from main : f
+current x position -2733.6043743528717, y_position -2442.2325422996805, orientation -1.57925370086562, lateral distance to line 0.01298592548184573
+message from main : f
+current x position -2733.595583884483, y_position -2423.3437883104953, orientation -1.5776602606710506, lateral distance to line 0.011160474865011002
+message from main : f
+current x position -2733.6615298706306, y_position -2414.395805400883, orientation -1.5757784337952017, lateral distance to line 0.010084590652139538
+message from main : f
+current x position -2733.6511651347714, y_position -2404.0279959363543, orientation -1.5753374830374838, lateral distance to line 0.009323283051059764
+message from main : f
+current x position -2733.3923442671603, y_position -2393.8655006430954, orientation -1.5760674857318502, lateral distance to line 0.009683500377791603
+message from main : f
+current x position -2733.0315358067487, y_position -2385.396892806365, orientation -1.5757725059198961, lateral distance to line 0.010548436950445573
+message from main : f
+current x position -2733.37576696174, y_position -2366.203944696505, orientation -1.5778598401127324, lateral distance to line 0.007940976839528343
+message from main : f
+current x position -2733.412319607645, y_position -2356.1648393175847, orientation -1.5764508639583634, lateral distance to line 0.007240786732386967
+message from main : f
+current x position -2732.8735218949337, y_position -2346.3193473028136, orientation -1.5755478082138703, lateral distance to line 0.00861015373532881
+message from main : f
+current x position -2732.514899297964, y_position -2337.103976753603, orientation -1.5754784571250413, lateral distance to line 0.009315835314051803
+message from main : f
+current x position -2732.5222249638705, y_position -2327.4050005077215, orientation -1.5759202857441597, lateral distance to line 0.008751211860411574
+message from main : f
+current x position -2732.2768113001, y_position -2297.2079120250282, orientation -1.5739594070241838, lateral distance to line 0.0080025457613298
+message from main : f
+current x position -2732.4598254875364, y_position -2285.827019938456, orientation -1.5748895652095865, lateral distance to line 0.006959424324756569
+message from main : f
+current x position -2731.4151358697586, y_position -2275.857565202763, orientation -1.5757801888808096, lateral distance to line 0.009479415967803918
+message from main : f
+current x position -2731.0600960814627, y_position -2254.8963634733545, orientation -1.5787998801380294, lateral distance to line 0.009466673499192727
+message from main : f
+current x position -2730.205219359911, y_position -2244.50561742938, orientation -1.5804888076470918, lateral distance to line 0.011210540305844272
+message from main : f
+current x position -2730.2797543776287, y_position -2224.2686756188655, orientation -1.5792010090140929, lateral distance to line 0.010091140199711527
+message from main : f
+current x position -2730.23236674409, y_position -2212.502605001983, orientation -1.5797844146147735, lateral distance to line 0.009705896778455559
+message from main : f
+current x position -2729.7756475029346, y_position -2171.7193380998756, orientation -1.5774867106471002, lateral distance to line 0.009157573227295695
+message from main : f
+current x position -2729.973080056697, y_position -2162.1901263742575, orientation -1.5769850672698407, lateral distance to line 0.00839648005394127
+message from main : f
+current x position -2729.7322208277756, y_position -2150.5872948277765, orientation -1.5823539734659218, lateral distance to line 0.00850902190332503
+message from main : f
+current x position -2729.813448868319, y_position -2140.6216563869675, orientation -1.5786773215332153, lateral distance to line 0.008015737531413526
+message from main : f
+current x position -2729.3508253718664, y_position -2130.326410183106, orientation -1.5797995660799513, lateral distance to line 0.008615024530854692
+message from main : f
+current x position -2727.9833782922083, y_position -2111.323531919285, orientation -1.5890900533928374, lateral distance to line 0.010644214775507312
+message from main : f
+current x position -2727.96018309596, y_position -2098.825921304664, orientation -1.5858028844336653, lateral distance to line 0.010258404877328169
+message from main : f
+current x position -2727.579439676561, y_position -2076.6406368157936, orientation -1.5857991416476491, lateral distance to line 0.01022708792333055
+message from main : f
+current x position -2727.06601176444, y_position -2065.51800833918, orientation -1.5877773004222915, lateral distance to line 0.010781113643656996
+message from main : f
+current x position -2726.507187686672, y_position -2054.1679998265417, orientation -1.5877208082438223, lateral distance to line 0.011384818179039182
+message from main : f
+current x position -2726.54765865698, y_position -2043.782821490772, orientation -1.5853197549417446, lateral distance to line 0.010979673768482431
+message from main : f
+current x position -2726.6067298773114, y_position -2031.5929444482542, orientation -1.5829955299658927, lateral distance to line 0.010502739315782897
+message from main : f
+current x position -2726.40746656506, y_position -2010.1637131678176, orientation -1.5822363586104131, lateral distance to line 0.010196582188518896
+message from main : f
+current x position -2726.2877843960146, y_position -1986.9262062125504, orientation -1.5817245712233017, lateral distance to line 0.00973826218840586
+message from main : f
+current x position -2725.987624244978, y_position -1976.7894307400395, orientation -1.5820177817467356, lateral distance to line 0.009926602354658235
+message from main : f
+current x position -2725.7933437960455, y_position -1954.7149132273776, orientation -1.5840936320557424, lateral distance to line 0.009639590448511865
+message from main : f
+current x position -2728.0099464358273, y_position -1933.1639661434015, orientation -1.5763712693299905, lateral distance to line 0.00593630302337197
+message from main : f
+current x position -2728.3387205568215, y_position -1922.6558660461349, orientation -1.5724033759175438, lateral distance to line 0.005271472307254917
+message from main : f
+current x position -2728.5143449773946, y_position -1899.1778724613687, orientation -1.5693004586551376, lateral distance to line 0.004617099243514495
+message from main : f
+current x position -2728.165343281452, y_position -1856.1698614614916, orientation -1.5700023179633014, lateral distance to line 0.00438501480410599
+message from main : f
+current x position -2728.639365224174, y_position -1822.7718429209008, orientation -1.5738313068040786, lateral distance to line 0.0033016723344280073
+message from main : f
+current x position -2728.6897933933174, y_position -1811.4997320940845, orientation -1.575813711448671, lateral distance to line 0.0030893751047562585
+message from main : f
+current x position -2728.5791368572873, y_position -1799.65440384161, orientation -1.577579690381363, lateral distance to line 0.0030689735705263545
+message from main : f
+current x position -2729.3933604956715, y_position -1785.935946651968, orientation -1.5729470150588516, lateral distance to line 0.0019328402626260337
+message from main : f
+current x position -2728.258600011159, y_position -1767.468826062326, orientation -1.5751268997420245, lateral distance to line 0.0030393276089902377
+message from main : f
+current x position -2724.975486839208, y_position -1722.2123504874357, orientation -1.5887179463065249, lateral distance to line 0.0061126678720786354
+message from main : f
+current x position -2724.7243492271473, y_position -1699.3793300525497, orientation -1.588200274047894, lateral distance to line 0.006044131693310224
+message from main : f
+current x position -2723.810904982611, y_position -1689.5284393166596, orientation -1.5946725100873254, lateral distance to line 0.006869309168209504
+message from main : f
+current x position -2722.2161821531945, y_position -1666.4642560761843, orientation -1.6066801661290657, lateral distance to line 0.008172413329631232
+message from main : f
+current x position -2721.024540276717, y_position -1645.2896183468788, orientation -1.6035314918767718, lateral distance to line 0.009039182647078483
+message from main : f
+current x position -2719.604948533488, y_position -1623.7702770981612, orientation -1.5999644868475955, lateral distance to line 0.010089456586482363
+message from main : f
+current x position -2716.9558860396446, y_position -1533.528474779816, orientation -1.6017614382959868, lateral distance to line 0.011039920014789643
+message from main : f
+current x position -2714.802930184016, y_position -1521.3346995840427, orientation -1.6099927288812914, lateral distance to line 0.012771479267215944
+message from main : f
+current x position -2714.6499520343086, y_position -1498.919762380464, orientation -1.605539918663284, lateral distance to line 0.012501932304991407
+message from main : f
+current x position -2713.7860805177957, y_position -1486.1661842028998, orientation -1.6074926642146712, lateral distance to line 0.013030723748980757
+message from main : f
+current x position -2713.4110913101795, y_position -1464.6093766408621, orientation -1.6052419660340018, lateral distance to line 0.012969377161962215
+message from main : f
+current x position -2712.9911484307813, y_position -1453.8205169021207, orientation -1.6062508329900433, lateral distance to line 0.013136508115190692
+message from main : f
+current x position -2712.052046263009, y_position -1443.1937181745475, orientation -1.6083874879036386, lateral distance to line 0.013739834489647294
+message from main : f
+current x position -2711.2287123655638, y_position -1430.9605878507432, orientation -1.6105870162791156, lateral distance to line 0.014206715089659056
+message from main : f
+current x position -2711.0150844942127, y_position -1421.6139965138475, orientation -1.6101460705820774, lateral distance to line 0.01421411943106209
+message from main : f
+current x position -2710.8644513434137, y_position -1408.3974964214106, orientation -1.6071198903217094, lateral distance to line 0.014100723459078543
+message from main : f
+current x position -2710.8126741754168, y_position -1396.120290004899, orientation -1.6021177016142947, lateral distance to line 0.013926287606538398
+message from main : f
+current x position -2710.197082923682, y_position -1385.6565788577018, orientation -1.6053527457437535, lateral distance to line 0.014238483410757605
+message from main : f
+current x position -2709.3242046315954, y_position -1375.0185858621498, orientation -1.6070394958776348, lateral distance to line 0.014746919750879633
+message from main : f
+current x position -2710.2975353711026, y_position -1363.3155474164314, orientation -1.5996837571183267, lateral distance to line 0.013773513939321294
+message from main : f
+current x position -2709.06961560635, y_position -1351.831460514302, orientation -1.6065274166113577, lateral distance to line 0.01453956388671561
+message from main : f
+current x position -2707.78355109326, y_position -1315.1516788767703, orientation -1.6070901788133507, lateral distance to line 0.01489671518423336
+message from main : f
+current x position -2705.09533945582, y_position -1259.0159629376358, orientation -1.611453017876003, lateral distance to line 0.015930320558957673
+message from main : f
+current x position -2702.8786224436894, y_position -1213.1465154501748, orientation -1.6142854852664372, lateral distance to line 0.016728338831414273
+message from main : f
+current x position -2702.5095647645257, y_position -1189.085254877893, orientation -1.605268950281228, lateral distance to line 0.016577033327757104
+message from main : f
+current x position -2702.571765490439, y_position -1178.6396351738706, orientation -1.6047196343028447, lateral distance to line 0.01635999854490993
+message from main : f
+current x position -2701.5180837272783, y_position -1155.8328021020925, orientation -1.606658029953551, lateral distance to line 0.016701915725523542
+message from main : f
+current x position -2700.5879823519263, y_position -1144.8021515699102, orientation -1.609948258230946, lateral distance to line 0.017146011875499533
+message from main : f
+current x position -2700.1507902987587, y_position -1133.6071973140872, orientation -1.6090012303353185, lateral distance to line 0.017252124318138193
+message from main : f
+current x position -2699.8091779475762, y_position -1120.4430986827797, orientation -1.608492940985577, lateral distance to line 0.0172608832272489
+message from main : f
+current x position -2699.457182586528, y_position -1097.5890716898264, orientation -1.6072023148883758, lateral distance to line 0.017118757539283474
+message from main : f
+current x position -2699.308746180616, y_position -1086.7471216493743, orientation -1.6082908707012236, lateral distance to line 0.017040808359728134
+message from main : f
+current x position -2698.343995527103, y_position -1075.2701860286393, orientation -1.6081795337795493, lateral distance to line 0.017477820220354982
+message from main : f
+current x position -2697.7774373366765, y_position -1064.7157116888989, orientation -1.609645891953756, lateral distance to line 0.017669643551850377
+message from main : f
+current x position -2697.4786081152, y_position -1052.5704354925404, orientation -1.611670868837608, lateral distance to line 0.017663828340220938
+message from main : f
+current x position -2696.3453082123956, y_position -1030.005738862414, orientation -1.6122448170616703, lateral distance to line 0.01801380325114998
+message from main : f
+current x position -2695.842135521857, y_position -1019.6929017222789, orientation -1.6141471983913613, lateral distance to line 0.018161329616193416
+message from main : f
+current x position -2695.149795702009, y_position -1006.9669934350331, orientation -1.6145815995000126, lateral distance to line 0.018384710009100053
+message from main : f
+bt time: 5.072530508041382
+bt break!!!!!
